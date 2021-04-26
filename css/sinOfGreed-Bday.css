@@ -1,0 +1,20 @@
+/*body {*/
+/*    background-image: url("../img/tanjirobg.jpg");*/
+/*    background-size: cover;*/
+/*}*/
+h1 {
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    background-image: url("../img/redbanner.jpeg");
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+.opaque-bg {
+    background: rgba(255, 255, 255, 0.4);
+    max-width: 100%;
+}
