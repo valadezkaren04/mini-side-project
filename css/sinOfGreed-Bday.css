@@ -3,18 +3,26 @@
 /*    background-size: cover;*/
 /*}*/
 h1 {
-    color: whitesmoke;
+    color: #ffffff;
     display: flex;
     justify-content: center;
 }
 
 .jumbotron {
-    background-image: url("../img/redbanner.jpeg");
+    background-image: url("../img/red.jpeg");
     background-size: cover;
     width: 100%;
     margin: 0;
 }
 .opaque-bg {
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(38, 5, 5, 0.4);
     max-width: 100%;
+}
+
+.tanjiro {
+    display: flex;
+    float: top;
+
+    /*display: flex;*/
+    /*justify-content: flex-end;*/
 }
