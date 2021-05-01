@@ -26,3 +26,8 @@ h1 {
     /*display: flex;*/
     /*justify-content: flex-end;*/
 }
+body {
+    background-image: url("../img/blackbggif.gif");
+    background-size: cover;
+
+}
