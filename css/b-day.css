@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+* {
+    background-image: url("../img/luffyblck.jpeg");
+    background-size: auto;
+}
+
+h2 {
+    color: #ececec;
+    text-shadow: 10px 5px #4e0606;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'New Rocker', cursive;
+}
