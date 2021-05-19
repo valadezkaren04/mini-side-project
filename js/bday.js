@@ -22,3 +22,4 @@ konamiCodeOn(function () {
 
 //thinking of ideas for web page
 //theme: anime (things to keep in mind: gifts)
+//gifts I have gotten already: kingdom heart rings, one piece lego ship, rengoku figurine
