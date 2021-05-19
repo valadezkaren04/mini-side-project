@@ -19,3 +19,5 @@ konamiCodeOn(function () {
     document.body.style.backgroundImage = "url('img/firebreath.gif')";
 
 });
+
+//thinking of ideas for web page
