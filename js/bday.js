@@ -21,3 +21,4 @@ konamiCodeOn(function () {
 });
 
 //thinking of ideas for web page
+//theme: anime (things to keep in mind: gifts)
